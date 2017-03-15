@@ -1,0 +1,12 @@
+program id;
+var a0 int;
+var b1 char;
+var c2 float;
+var d3 double;
+begin
+a0 = 4 * 9;
+c2 = 7 + 5;
+if(a0 > c2) then write('a') else write("error");
+end
+
+
